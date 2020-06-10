@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.d941b768.chunk.css",
+    "main.js": "/robofriends/static/js/main.0f3ad4ef.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.0f3ad4ef.chunk.js.map",
+    "runtime-main.js": "/robofriends/static/js/runtime-main.29a9c35e.js",
+    "runtime-main.js.map": "/robofriends/static/js/runtime-main.29a9c35e.js.map",
+    "static/js/2.f62f56c9.chunk.js": "/robofriends/static/js/2.f62f56c9.chunk.js",
+    "static/js/2.f62f56c9.chunk.js.map": "/robofriends/static/js/2.f62f56c9.chunk.js.map",
+    "index.html": "/robofriends/index.html",
+    "precache-manifest.8f6c12e937d4703ee124a25d3258b9ee.js": "/robofriends/precache-manifest.8f6c12e937d4703ee124a25d3258b9ee.js",
+    "service-worker.js": "/robofriends/service-worker.js",
+    "static/css/main.d941b768.chunk.css.map": "/robofriends/static/css/main.d941b768.chunk.css.map",
+    "static/js/2.f62f56c9.chunk.js.LICENSE.txt": "/robofriends/static/js/2.f62f56c9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robofriends/static/media/RockFont.751a0e4b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29a9c35e.js",
+    "static/js/2.f62f56c9.chunk.js",
+    "static/css/main.d941b768.chunk.css",
+    "static/js/main.0f3ad4ef.chunk.js"
+  ]
+}
