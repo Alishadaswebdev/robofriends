@@ -1,0 +1,49 @@
+.divi {
+  display:inline-block;
+  height: 15rem;
+  width: 12rem;
+  padding:2rem;
+  margin:1rem;
+  border: 3px solid lightGreen;
+  border-radius:0.5rem;
+  background-color:lightGreen;
+  box-shadow:2px 2px 4px 5px #ccc;
+  justify-content:center;
+  text-align:center;
+}
+
+.details{
+  font-size:1rem;
+}
+.grow {
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+  }
+  
+  .grow:hover,
+  .grow:focus {
+    transform: scale(1.05);
+  }
+  
+  .grow:active {
+    transform: scale(.90);
+  }
+  
+  .grow-large {
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform .25s ease-in-out;
+  }
+  
+  .grow-large:hover,
+  .grow-large:focus {
+    transform: scale(1.2);
+  }
+  
+  .grow-large:active {
+    transform: scale(.95);
+  }
+

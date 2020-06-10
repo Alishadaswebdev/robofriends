@@ -1,0 +1,53 @@
+
+const robots = [
+    {
+        id:1,
+        name:'Rihana',
+        username:'rits',
+        email:'rits@gmail.com'
+    }
+,
+    {
+        id:2,
+        name:'Ritika',
+        username:'ritik',
+        email:'ritik@gmail.com'
+    }
+,
+    {
+        id:3,
+        name:'Sharuka',
+        username:'shari',
+        email:'shari@gmail.com'
+    }
+,
+    {
+        id:4,
+        name:'Rohini',
+        username:'rohu',
+        email:'rohu@gmail.com'
+    }
+,
+    {
+        id:5,
+        name:'Lovely',
+        username:'love',
+        email:'love@gmail.com'
+    }
+,
+    {
+        id:6,
+        name:'Rishi',
+        username:'rishi',
+        email:'rishi@gmail.com'
+    }
+,
+    {
+        id:7,
+        name:'Sulekha',
+        username:'sukhi',
+        email:'sukhi@gmail.com'
+    }
+]
+
+export default robots
